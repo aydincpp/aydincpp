@@ -1,3 +1,8 @@
+# About Me
+
+I'm 25, and I do C++ programming for fun. Right now, I'm learning OpenGL to rebuild my game engine from scratch. I first created it with SFML and imGUI, but I didn't like it because SFML abstracts so many things. I wanted to have more control over rendering. I also wanted to make it cross-platform. It's been a couple years since I started getting into game engines. I read a few books about C++ and design patterns, also did some math shit. I will continue to learn and who knows maybe one day i fulfill my dream.
+
+
 <div align="center">
   <img height="300" src="https://i.imgflip.com/9sr1l9.jpg"  />
 </div>
